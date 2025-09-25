@@ -1,0 +1,2 @@
+# GED_score_GPACalculater
+This Python program helps students quickly calculate their GPA based on GED subject scores. It allows users to input their subject grades, converts them into GPA points, and provides an overall average. The project is designed to be simple, beginner-friendly, and practical for anyone preparing for the GED or tracking their academic progress.
